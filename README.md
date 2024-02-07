@@ -6,7 +6,7 @@
 
    ```bash
         docker pull edersonh/hello-golang ou
-        docker edersonh/hello-golang
+        docker run edersonh/hello-golang
    ```
 
 2. Como executar
